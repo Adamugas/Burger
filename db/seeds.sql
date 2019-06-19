@@ -7,8 +7,7 @@ values
 insert into burger
   (burger_name)
 values
-  (Burgers
-with Fried Eggs.');
+  ('Burgers Eggs.');
 insert into burger
   (burger_name)
 values
@@ -16,4 +15,4 @@ values
 insert into burgers
   (burger_name)
 values
-  ('onion  Burger');
+  ('somali Burger');
